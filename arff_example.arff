@@ -1,0 +1,15 @@
+
+@relation example_dataset
+
+@attribute age numeric
+@attribute income numeric
+@attribute gender {male, female}
+@attribute purchased {yes, no}
+
+@data
+25, 50000, male, yes
+30, 60000, female, no
+22, 35000, female, yes
+45, 120000, male, no
+35, 80000, male, yes
+29, 54000, female, no

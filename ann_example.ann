@@ -1,0 +1,6 @@
+T1	Person 0 4	John
+T2	Organization 10 16	OpenAI
+T3	Location 22 29	Germany
+T4	Date 34 44	October 2023
+R1	WORK_FOR Arg1:T1 Arg2:T2
+#1	AnnotatorNotes T1	John is an employee at OpenAI.
